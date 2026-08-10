@@ -13,6 +13,10 @@
 🧠 Learning by building real projects  
 🤖 Interested in Software Development, AI and Automation
 
+> [!NOTE]
+> This is my new and current GitHub account.  
+> My previous account is **M-Avanzo**, where you can find some of my older projects and contributions.
+
 ## 🛠️ Tech Stack
 
 [ícones do Python] [Lua] [JavaScript] [HTML] [CSS]
