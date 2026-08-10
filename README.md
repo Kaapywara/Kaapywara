@@ -1,42 +1,39 @@
-# Hey, I'm Matheus 👋
+<h1 align="center">Hey, I'm Matheus 👋</h1>
+
+<p align="center">
+  Computer Science Student • Software Development • AI & Automation
+</p>
+
+---
+
+## 👨‍💻 About Me
 
 🎓 Computer Science student at UBC  
-💻 Interested in Software Development, Automation and AI  
-📍 São Paulo, Brazil
+📍 São Paulo, Brazil  
+🧠 Learning by building real projects  
+🤖 Interested in Software Development, AI and Automation
 
-## About me
+## 🛠️ Tech Stack
 
-I'm a Computer Science student who enjoys learning by building things.
+[ícones do Python] [Lua] [JavaScript] [HTML] [CSS]
+[Git] [GitHub] [VS Code]
 
-Most of my experience comes from personal and academic projects involving
-Python, automation, artificial intelligence and game development.
-
-I'm currently expanding my knowledge in web development, databases and
-software engineering.
-
-## Tech & Tools
-
-🐍 Python  
-🌙 Lua  
-🌐 HTML • CSS • JavaScript  
-🗃️ SQL  
-🤖 AI & Automation  
-⚙️ n8n  
-🔧 Git & GitHub
-
-## Currently learning
-
-- JavaScript and Web Development
-- Databases and SQL
-- Git & GitHub workflows
-- Software Engineering concepts
-
-## Projects
+## 🚀 Projects
 
 ### 🖥️ ViberOS
-A terminal-based project developed in Python.
+Terminal-based project built with Python.
 
-Currently working on maintenance, bug fixes, refactoring and improvements
-to the project's interface and dependencies.
+> Currently working on bug fixes, refactoring and new features.
 
-More projects coming soon.
+## 📚 Currently Learning
+
+🌐 Web Development  
+🗃️ Databases & SQL  
+🔧 Git & GitHub  
+🏗️ Software Engineering
+
+---
+
+<p align="center">
+  <i>Building, breaking, learning, repeating.</i>
+</p>
