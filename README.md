@@ -1,4 +1,6 @@
- <img src="https://raw.githubusercontent.com/Kaapywara/Kaapywara/main/assets/kaapywara-glitch.svg" width="700" alt="Hello, World! changing into Kaapywara with a purple glitch effect"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kaapywara/Kaapywara/main/assets/kaapywara-glitch.svg" width="700" alt="Hello, World! changing into Kaapywara with a purple glitch effect">
+</div>
 
 <h1 align="center">Hi, I'm Matheus 👋</h1>
 
